@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>testObj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>testObjs</value>
+    </caseValues>
+    <fields>
+        <label><!-- checkbox --></label>
+        <name>checkbox__c</name>
+    </fields>
+    <fields>
+        <label><!-- datetime --></label>
+        <name>datetime__c</name>
+    </fields>
+    <fields>
+        <label><!-- richtext --></label>
+        <name>richtext__c</name>
+    </fields>
+    <fields>
+        <label><!-- text --></label>
+        <name>text__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
